@@ -2,6 +2,7 @@
 A simple on-chain higher-or-lower market for crypto and tokenized assets.
 
 Contract Address: 0x99a5eF49aABAb2cf483d7433A9bff9B85DC30c37
+
 ⸻
 
 HILO lets users choose a market, predict whether its price will move higher or lower over a short round, and share the losing side’s stake with everyone who made the correct call.
